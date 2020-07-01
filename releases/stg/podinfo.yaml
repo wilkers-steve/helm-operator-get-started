@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: srwilkers/podinfo
-      tag: stg-ntaexa0s
+      tag: stg-qa2ygq8t
     replicaCount: 2
     hpa:
       enabled: true
