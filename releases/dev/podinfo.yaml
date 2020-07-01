@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: srwilkers/podinfo
-      tag: dev-gqfsvi1q
+      tag: dev-eboh4c8p
     replicaCount: 1
     hpa:
       enabled: false
